@@ -1,10 +1,15 @@
-<h1> DotFiles </h1>
+#   DotFiles
 
-<p> Feel free to use and test them </p>
+Feel free to use and test them
 
-<h2> Waybar </h2>
+## Waybar
 
 ```sh
     ~/.config/waybar
 ```
 
+## Fastfetch
+
+```sh
+    ~/.config/fastfetch
+```
