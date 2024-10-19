@@ -4,12 +4,12 @@ Feel free to use and test them
 
 ## Waybar
 
-`sh
+``sh
     ~/.config/waybar
-`
+``
 
 ## Fastfetch
 
-`sh
+``sh
     ~/.config/fastfetch
-`
+``
